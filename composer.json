@@ -1,0 +1,22 @@
+{
+    "name": "",
+    "description": "",
+    "authors": [
+        {
+            "name": "metry",
+            "email": "fortrun.php@gmail.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "app/vendor/"
+    },
+    "autoload": {
+        "psr-4":
+        {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "intervention/image": "^2.4"
+    }
+}
